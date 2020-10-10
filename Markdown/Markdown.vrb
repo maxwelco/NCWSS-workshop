@@ -1,6 +1,5 @@
 \frametitle{Manuscripts}
 \protect\hypertarget{manuscripts}{}
-
 \begin{verbatim}
 library(rticles)
 \end{verbatim}
@@ -12,4 +11,3 @@ library(rticles)
 }
 
 \end{figure}
-

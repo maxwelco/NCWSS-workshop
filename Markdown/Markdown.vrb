@@ -1,0 +1,15 @@
+\frametitle{Manuscripts}
+\protect\hypertarget{manuscripts}{}
+
+\begin{verbatim}
+library(rticles)
+\end{verbatim}
+
+\begin{figure}[h]
+
+{\centering \includegraphics[width=1\linewidth]{figures/rticles}
+
+}
+
+\end{figure}
+
